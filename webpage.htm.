@@ -1,0 +1,46 @@
+<!DOCTYPE>
+<html>
+<head>
+
+<title>My first HTML page</title>
+<style>
+body {
+	background-color: Black;
+}
+h1 {
+	color: DodgerBlue;
+	text-align: center;
+	
+}
+p {
+	color: Green;
+}
+h2 {
+	color: teal;
+}
+
+
+</style>
+</head>
+
+<body>
+<h1>Welcome! To my Webpage!</h1>
+<h2> About Me</h2>
+
+<p>My name is Ravi and I am a rising senior at Alpharetta High School. I enjoy plaing video games, playing tennis, and writing code. I am also interested in cars.</p>
+
+<h2>My projects at TagEd</h2>
+
+<ul style="list-style-type:disc;">
+  <li><a href="https://repl.it/@RaviC0/Chat-Bot">Chat bot</a></li>
+  <li><a href="https://repl.it/@RaviC0/MountainousLightgrayJavadocs">Guessing game and Hangman</a></li>
+</ul>  
+<h2>Tennis Clips</h2>
+<ul style="list-style-type:disc;">
+  <li><a href=""></a></li>
+  <li><a href=""></a></li>
+</ul>  
+</body>
+
+
+</html>
